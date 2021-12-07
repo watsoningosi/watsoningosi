@@ -11,7 +11,3 @@ Skills:  🌍 HTML/ 🖌 CSS/ ⚡JAVASCRIPT/ 🖥 PHP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/watsoningosi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/watsoningosi/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watsoningosi)](https://github.com/anuraghazra/github-readme-stats)
- 
-
